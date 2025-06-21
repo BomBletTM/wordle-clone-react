@@ -31,9 +31,7 @@ JavaScript (ES6+)
 ├── index.html
 ├── index.jsx
 ├── screenshots/
-│ ├── home-page.jpg
-│ ├── pokedex-demo.jpg
-│ └── search-functionality.jpg
+│ └── wordly.jpg
 └── README.md
 </pre>
 
